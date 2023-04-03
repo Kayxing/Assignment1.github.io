@@ -20,7 +20,7 @@ section.menus_area {
 }
 
 .title {
-    background-color: #ff7720;
+    background-color: #8ceb55db;
     padding: 10px 0;
     font-size: 24px;
     text-transform: capitalize;
@@ -28,7 +28,7 @@ section.menus_area {
 }
 
 .single_menu {
-    background-color: #333;
+    background-color: #e4bf67;
     border: 1px solid #ddd;
     padding: 20px;
     text-align: center;
@@ -40,7 +40,7 @@ section.menus_area {
     position: absolute;
     right: 0;
     bottom: 0;
-    background-color: #ff7720;
+    background-color: #8ceb55db;
     padding: 8px 20px;
     font-size: 20%;
     font-weight: 700;
