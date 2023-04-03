@@ -35,3 +35,14 @@ section.menus_area {
     position: relative;
     transition: .3s;
 }
+
+.single_menu span {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    background-color: #ff7720;
+    padding: 8px 20px;
+    font-size: 20%;
+    font-weight: 700;
+    border-radius: 15px 0 0 0;
+}
