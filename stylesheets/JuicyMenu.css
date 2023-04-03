@@ -1,5 +1,10 @@
 /* My_Menu Stylesheet */
 
+header {
+    position: center ;
+
+}
+
 section.menus_area {
     background-size: cover;
     background-position: center;
